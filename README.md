@@ -1,10 +1,10 @@
 # Filter-messages
 
-## 1. Установка зависимостей
-### npm install
+### 1. npm install
+Установка зависимостей
 
-## 2. Запуск тестов
-### npm test
+### 2. npm test
+Запуск тестов
 
-## 3. Работа с файлом index.ts
-### npm start
+### 3. npm start
+Работа с файлом index.ts
